@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
+#include <conio.h>
 /*
 Faça um programa que emule um relogio digital imprimindo na tela 
 hora minuto e segundo*/
